@@ -30,6 +30,17 @@
 ![](https://github.com/SouthernYard/SouthernYard.github.io/blob/master/images/pasted-58.png)
 技术栈：Vue/Bootstrap/jQuery/Thymeleaf/Spring Data Jpa/Spring Boot Mail/WebJars/Mysql/MongoDB/Tomcat/WebSocket
 
+
+宽界主要由6个部分组成：
+
+- Admin
+- Broker
+- CEP
+- OMS
+- Application
+- BackTestEngine
+
+
 # 组件:
 
 ## Admin

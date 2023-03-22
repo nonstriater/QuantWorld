@@ -56,12 +56,12 @@ public enum ExchangeEnum {
   KRX(""), //Korean Exchange
 
   // CryptoCurrency
-  BITME(""),
+  BINANCE(""),
+  COINBASE(""),
   OKEX(""),
   HUOBI(HuobiGateway.class.getName()),
   BITFINEX(""),
-  BINANCE(""),
-  COINBASE(""),
+  BITME(""),
   BIGONE(BigOneGateway.class.getName()),
 
   // Special Function
